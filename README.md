@@ -34,4 +34,6 @@ My collection of Claude Code subagents written in Markdown. These subagents are 
 
 **search-specialist** - Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis.
 
+**strategic-planner** - Creates comprehensive plans, roadmaps, and strategic approaches for projects and features. Breaks down large objectives into actionable steps, identifies dependencies, estimates timelines, and organizes work into logical phases. Use PROACTIVELY when planning complex features, migrations, or multi-phase projects.
+
 **vulnerability-specialist** - Expert security researcher for defensive security analysis, code review, and vulnerability identification. Use PROACTIVELY for security assessments, vulnerability analysis, threat modeling, and creating security documentation. Specialist for reviewing authentication, authorization, input validation, and identifying OWASP Top 10 vulnerabilities.
